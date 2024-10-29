@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_pizza_menu"
+        android:title="Menu"
+        android:icon="@drawable/baseline_local_pizza_24"/>
+
+    <item
+        android:id="@+id/fragment_favorite_pizza"
+        android:title="Favoritos"
+        android:icon="@drawable/baseline_favorite_24"/>
+
+    <item
+        android:id="@+id/fragment_salads"
+        android:title="Ensaladas"
+        android:icon="@drawable/baseline_salad_24"/>
+</menu>
